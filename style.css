@@ -7,3 +7,12 @@
 img{
   border-radius: 50%;
 }
+
+a {
+    color: #f97fbb;
+    text-decoration: none;
+}
+
+footer{
+  margin-top: 20px;
+}
