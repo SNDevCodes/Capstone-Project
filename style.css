@@ -1,4 +1,9 @@
 *{
   background: rgba(41, 41, 41, 1);
   color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+img{
+  border-radius: 50%;
 }
